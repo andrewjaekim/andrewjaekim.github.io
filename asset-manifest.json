@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.520c7894.css",
-    "main.js": "/static/js/main.0f5db29a.js",
+    "main.css": "/static/css/main.3e67f566.css",
+    "main.js": "/static/js/main.22a4aa3d.js",
     "static/js/787.c2441cbe.chunk.js": "/static/js/787.c2441cbe.chunk.js",
     "static/media/sunrise_at_delicate_arch.jpeg": "/static/media/sunrise_at_delicate_arch.1d8fe32bc2bb40a73472.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.520c7894.css.map": "/static/css/main.520c7894.css.map",
-    "main.0f5db29a.js.map": "/static/js/main.0f5db29a.js.map",
+    "main.3e67f566.css.map": "/static/css/main.3e67f566.css.map",
+    "main.22a4aa3d.js.map": "/static/js/main.22a4aa3d.js.map",
     "787.c2441cbe.chunk.js.map": "/static/js/787.c2441cbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.520c7894.css",
-    "static/js/main.0f5db29a.js"
+    "static/css/main.3e67f566.css",
+    "static/js/main.22a4aa3d.js"
   ]
 }
