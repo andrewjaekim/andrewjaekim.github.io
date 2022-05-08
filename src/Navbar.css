@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     padding: 2rem 6rem;
 
     background-color: #7393B3;
@@ -17,6 +16,11 @@
 
 .navbar__logo {
     margin-right: 2rem;
+}
+
+.navbar__logo img {
+    width: 100px;
+    height: 100px;
 }
 
 .navbar__links-container {
