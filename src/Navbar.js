@@ -3,11 +3,11 @@ import './Navbar.css'
 
 function Header() {
   return (
-    <div className='header'>
-      <div className='header__links'>
-        <div className='header__logo'>
+    <div className='navbar'>
+      <div className='navbar__links'>
+        <div className='navbar__logo'>
         </div>
-        <div className='header__links-container'>
+        <div className='navbar__links-container'>
           <p><a href="home">Home</a></p>
           <p><a href="pictures">Pictures</a></p>
           <p><a href="projects">Projects</a></p>

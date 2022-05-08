@@ -1,31 +1,38 @@
-.header {
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
 
     padding: 2rem 6rem;
 
-    background-color: whitesmoke;
+    background-color: #7393B3;
 }
 
-.header__links {
+.navbar__links {
     flex: 1;
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
-.header__logo {
+.navbar__logo {
     margin-right: 2rem;
 }
 
-.header__links-container {
+.navbar__links-container {
     display: flex;
     flex-direction: row;
+    text-decoration: none;
 }
 
-.header__links-container p {
+.navbar__links-container p {
     color: white;
     margin: 0 1rem;
+    text-decoration: none;
+}
 
+.navbar__links-container p:hover {
+    color: blanchedalmond;
+    margin: 0 1rem;
+    text-decoration: none;
 }
