@@ -1,7 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 
-function Header() {
+function Navbar() {
   return (
     <div className='navbar'>
       <div className='navbar__links'>
@@ -15,8 +15,12 @@ function Header() {
           <p><a href="about-me">About Me</a></p>
         </div>
       </div>
+      <div className='navbar__social'>
+        <button type="button">Instagram</button>
+      </div>
+
     </div>
   )
 }
 
-export default Header
+export default Navbar

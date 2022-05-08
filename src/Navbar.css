@@ -36,3 +36,9 @@
     margin: 0 1rem;
     text-decoration: none;
 }
+
+.navbar__social {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
