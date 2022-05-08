@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2rem 6rem;
+
+    background-color: whitesmoke;
+}
+
+.header__links {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header__logo {
+    margin-right: 2rem;
+}
+
+.header__links-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.header__links-container p {
+    color: white;
+    margin: 0 1rem;
+
+}
